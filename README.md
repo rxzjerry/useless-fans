@@ -39,6 +39,10 @@ For Hardware:
 - Specifications: Camera resolution ≥ 720p recommended, FPS ≥ 60
 - Tools required: Camera
 
+# Hardware (Requisite reference video)
+note that this video is necessary for working of code
+https://github.com/user-attachments/assets/0f5c8e12-c1e0-4100-b359-2673f0be5f87
+
 
 # Screenshots
 <img width="1536" height="898" alt="grid_of_frames_with_high_similarity" src="https://github.com/user-attachments/assets/96ac3fc6-6d59-4afc-9075-407f4ef9a298" />
